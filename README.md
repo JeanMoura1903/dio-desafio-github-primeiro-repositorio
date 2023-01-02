@@ -8,5 +8,5 @@
 - O que é Git.
 - Para que serve o Git.
 - Instalando o Git.
-- Principais comandos do Git. 
+- Como Usar o GIT . 
 
