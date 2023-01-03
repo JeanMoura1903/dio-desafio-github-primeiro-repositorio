@@ -1,5 +1,5 @@
-# ### Introdução ao Git
-###### ###### Uma breve explicação do que se trata o Git e um passo a passo detalhado para instalação e configuração do Git Bash 
+#### Introdução ao Git
+############ Uma breve explicação do que se trata o Git e um passo a passo detalhado para instalação e configuração do Git Bash 
 
 
 
